@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFaritmetica", "WCFaritmetica\WCFaritmetica.csproj", "{A33B6D5A-3AEA-44A3-8DB0-FA04744F97E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTaritmetica", "UTaritmetica\UTaritmetica.csproj", "{FEAE35FF-09F9-438E-B38E-5A18DA5E9A75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A33B6D5A-3AEA-44A3-8DB0-FA04744F97E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A33B6D5A-3AEA-44A3-8DB0-FA04744F97E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A33B6D5A-3AEA-44A3-8DB0-FA04744F97E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAE35FF-09F9-438E-B38E-5A18DA5E9A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAE35FF-09F9-438E-B38E-5A18DA5E9A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAE35FF-09F9-438E-B38E-5A18DA5E9A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAE35FF-09F9-438E-B38E-5A18DA5E9A75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
